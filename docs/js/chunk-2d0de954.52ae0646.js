@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0de954"],{"85ef":function(o){o.exports=["ADN","ail","âne","ara","arc","bar","bas","blé","BMW","BMX","boa","bol","bus","but","cap","cil","clé","coq","cou","dur","eau","été","fée","fin","Gru","île","Jul","KFC","lac","lit","lys","mer","MTV","mur","nez","nid","œil","œuf","oie","ONU","pas","pot","pro","pub","rat","riz","roi","rue","sac","sel","sol","son","thé","USB","vin","zoo"]}}]);
-//# sourceMappingURL=chunk-2d0de954.52ae0646.js.map

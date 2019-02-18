@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ba916"],{3883:function(e){e.exports=["bataille de boules de neige","Dragon blanc aux yeux bleus"]}}]);
-//# sourceMappingURL=chunk-2d0ba916.67a78621.js.map
