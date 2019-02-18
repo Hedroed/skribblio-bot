@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d222401"],{ce8a:function(e){e.exports=["caserne de pompiers","Dora l'exploratrice","fruit de la passion","marteau de forgeron","pays des merveilles","plongée sous-marine","stalactite de glace","William Shakespeare"]}}]);
+//# sourceMappingURL=chunk-2d222401.e27f8f52.js.map

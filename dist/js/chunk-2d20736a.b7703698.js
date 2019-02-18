@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20736a"],{a027:function(e){e.exports=["cabane dans un arbre","ceinture de sécurité","inspecteur de police","la vie après la mort","Le génie de la lampe","rouleau à pâtisserie"]}}]);
+//# sourceMappingURL=chunk-2d20736a.b7703698.js.map
